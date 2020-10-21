@@ -13,5 +13,9 @@ For MacOS and Linux, just copy and paste the following command in your terminal:
 
 ```
 curl -sLf https://raw.githubusercontent.com/marco-souza/vim-setup/main/setup.sh | bash
+
+# or 
+
+curl -sLf https://cutt.ly/vim-setup | bash
 ```
 
